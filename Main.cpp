@@ -9,6 +9,9 @@ int main() {
 	cout << "enter a number" << endl;
 	cin >> numberStr;
 	cout << "you entered" << numberStr << endl;
+	
+	
+	int ok;
 
 
 
