@@ -13,6 +13,7 @@ int main() {
 	
 	int ok;
 	int alright;
+	int variable;
 
 
 
