@@ -12,6 +12,7 @@ int main() {
 	
 	
 	int ok;
+	int alright;
 
 
 
